@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Data files
+backend/data/
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+build/
+dist/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+
+
+
+
